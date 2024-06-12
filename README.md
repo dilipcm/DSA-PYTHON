@@ -53,10 +53,10 @@
 ️ (08:51:00) Graph Data Structure \
 ️ (09:15:57) Graph Algorithms - Breadth-First Search \
 ️ (09:37:28) Depth-First Search \
-️ (10:08:26) Shortest Paths
-️ (10:40:39) Summary and Conclusion
-️ (10:42:21) Python Interview Questions Tips & Advice
-️ (10:43:09) Introduction
-️ (10:44:08) The Method
-️ (10:47:10) Solution
-️ (12:30:51) Summary and Conclusion
+️ (10:08:26) Shortest Paths \
+️ (10:40:39) Summary and Conclusion \
+️ (10:42:21) Python Interview Questions Tips & Advice \
+️ (10:43:09) Introduction \
+️ (10:44:08) The Method \
+️ (10:47:10) Solution \
+️ (12:30:51) Summary and Conclusion 
