@@ -1,6 +1,6 @@
 # DSA-PYTHON
-️# Course Contents ️
-️ (00:00:00) Introduction
+️# Course Contents ️\
+️ (00:00:00) Introduction \ 
 ️ (00:01:43) Binary Search Linked Lists and Complexity
 ️ (00:03:43) Introduction
 ️ (00:08:35) Problem
